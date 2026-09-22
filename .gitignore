@@ -1,0 +1,14 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE files
+.vscode/
+.idea/
+*.sln
+*.xcodeproj
+
+# macOS
+.DS_Store
